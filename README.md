@@ -2,6 +2,7 @@
 🚀一款强悍而小巧的PHP列表程序[本人持续维护与汉化]
 请注意,本项目来自[marekrei的encode-explorer项目](https://github.com/marekrei/encode-explorer)
 所有的版权要求均找Ta.
+由于原作者已经两年没更新了,顺手就托管了.(当然我没有联系原作者)
 ## 为什么选用EE?
 因为它有一下优点:
 - 轻量级(相对与h5ai)
