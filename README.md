@@ -10,12 +10,11 @@
 
 实际体验：
 
-![image](https://user-images.githubusercontent.com/53730587/76605442-6a624880-654b-11ea-95e4-3735623e505b.png)
-
-
+![image](https://user-images.githubusercontent.com/53730587/76672742-ea36f400-65d9-11ea-8796-c17f19ba7d2a.png)
+![image](https://user-images.githubusercontent.com/53730587/76672756-fd49c400-65d9-11ea-95f8-6cecd1fabbab.png)
 ![image](https://user-images.githubusercontent.com/53730587/76605534-9087e880-654b-11ea-8feb-a2e90fa971af.png)
 
-> 目前图标没有替换完全,近期正在修改
+> ~~标没有替换完全,近期正在修改~~ 已完成！
 
 ## 为什么选用EE?
 因为它有一下优点:
@@ -27,7 +26,7 @@
 ## 本人Todo:
 - [x] 汉化
 - [ ] 增加更多的语言(你可以在源代码`428`到`458`行看到实例文件)<--字没有打错,是`实例`
-- [ ] 【进行中】增加更多的图标(以base64为格式)
+- [x] 增加更多的图标(以base64为格式)
 ## 你也可以帮忙!
 
 恳请大家使用Pull Requests 中贡献更多的语言和图标.
