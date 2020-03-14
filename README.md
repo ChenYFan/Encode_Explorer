@@ -10,11 +10,18 @@
 
 实际体验：
 
-![image](https://user-images.githubusercontent.com/53730587/76672742-ea36f400-65d9-11ea-8796-c17f19ba7d2a.png)
-![image](https://user-images.githubusercontent.com/53730587/76672756-fd49c400-65d9-11ea-95f8-6cecd1fabbab.png)
-![image](https://user-images.githubusercontent.com/53730587/76605534-9087e880-654b-11ea-8feb-a2e90fa971af.png)
+![image](https://user-images.githubusercontent.com/53730587/76675602-f4ff8200-65f5-11ea-8329-a8e8b9a08cc6.png)
 
-> ~~标没有替换完全,近期正在修改~~ 已完成！
+![image](https://user-images.githubusercontent.com/53730587/76675607-0779bb80-65f6-11ea-9c50-a0cb17778b17.png)
+
+![image](https://user-images.githubusercontent.com/53730587/76675619-26784d80-65f6-11ea-8699-0d20a12f55dc.png)
+
+> ~~图标没有替换完全,近期正在修改~~ 已完成！
+
+## 使用：
+
+复制repo中 `EE汉化版.php` ,部署到你的php空间上，访问即可！
+
 
 ## 为什么选用EE?
 因为它有一下优点:
@@ -25,8 +32,10 @@
 
 ## 本人Todo:
 - [x] 汉化
+- [x] 更新所有图标
+- [ ] 添加unzip功能[正在实现]
 - [ ] 增加更多的语言(你可以在源代码`428`到`458`行看到实例文件)<--字没有打错,是`实例`
-- [x] 增加更多的图标(以base64为格式)
+- [ ] 增加更多的图标(以base64为格式)
 ## 你也可以帮忙!
 
 恳请大家使用Pull Requests 中贡献更多的语言和图标.
