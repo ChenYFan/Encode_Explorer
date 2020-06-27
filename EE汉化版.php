@@ -2155,7 +2155,7 @@ class Dir
 	//
 	// Constructor
 	//
-	function Dir($name, $location)
+	function __construct($name, $location)
 	{
 		$this->name = $name;
 		$this->location = $location;
@@ -2201,7 +2201,7 @@ class File
 	//
 	// Constructor
 	//
-	function File($name, $location)
+	function __construct($name, $location)
 	{
 		$this->name = $name;
 		$this->location = $location;
@@ -3240,11 +3240,5 @@ if(!ImageServer::showImage() && !Logger::logQuery())
     100% { -moz-transform:rotate(0deg);}  
 }  
 </style>  
-<script src="images/chaffle.min.js"></script>  
-<script>  
-  $(document).ready(function() {  
-    $('.chaffle').chaffle();  
-  });   
-</script>  
 </body>
 </html>
